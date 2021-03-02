@@ -9,6 +9,6 @@ export class DataService {
   constructor( private http : HttpClient) { }
 
   getOptions(){
-    return this.http.get<Option[]>('../../assets/menu-opts.json');
+    return this.http.get<Option[]>('assets/menu-opts.json');
   }
 }
