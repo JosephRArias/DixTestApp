@@ -1,22 +1,22 @@
 [
   {
-  "icon": "american-football",
+  "icon": "person",
   "name": "Mi Perfil",
-  "redirectTo": "/folder/Profile"
+  "redirectTo": "/profile"
   },
   {
   "icon": "person-add",
   "name": "Mis Solicitudes",
-  "redirectTo": "/folder/Solicitudes"
+  "redirectTo": "/requests"
   },
   {
   "icon": "archive",
   "name": "Novedades y Configuración",
-  "redirectTo": "/folder/Configuracion"
+  "redirectTo": "/novelties"
   },
   {
   "icon": "log-out",
   "name": "Logout",
-  "redirectTo": "/folder/LogOut"
+  "redirectTo": "/logout"
   }
 ]
